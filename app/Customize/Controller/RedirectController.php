@@ -23,9 +23,9 @@ class RedirectController extends AbstractController
      */
     public static $pageList = [
 
-'marumijinko.movie.html' 
+'marumijinko.movie.html' => 'biseibutsu_marumijinko';
     
-    ]=> 'biseibutsu_marumijinko';
+    ]
  /**
  *@Route("/biseibutsu/{page}", methods={"GET"})
  */
