@@ -23,7 +23,7 @@ class RedirectController extends AbstractController
      */
     public static $pageList = [
 
-'biseibutsu/marumijinko.movie.html' => 'biseibutsu_marumijinko',
+'biseibutsu/marumijinko.movie.html' => 'biseibutsu_marumijinko'
 'biseibutsu/aburamimizu.movie.html'=>'biseibutsu_aburamimizu'
 'biseibutsu/ame-ba.movie.html'=>'biseibutsu_ame-ba'
 'biseibutsu/borubokkusu.movie.html'=>'biseibutsu_borubokkusu'
