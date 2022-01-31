@@ -23,24 +23,24 @@ class RedirectController extends AbstractController
      */
     public static $pageList = [
 
-'marumijinko.movie.html' => 'biseibutsu_marumijinko',
-'aburamimizu.movie.html'=>'biseibutsu_aburamimizu'
-'ame-ba.movie.html'=>'biseibutsu_ame-ba'
-'borubokkusu.movie.html'=>'biseibutsu_borubokkusu'
-'bouhura.movie.html'=>'biseibutsu_bouhura'
-'enagawamusi.movie.html'=>'biseibutsu_enagawamusi'
-'hirugatawamusi.movie.html'=>'biseibutsu_hirugatawamusi'
-'hunagatakeisou.movie.html'=>'biseibutsu_hunagatakeisou'
-'kagerou.movie.html'=>'biseibutsu_kagerou'
-'kaimijinko.movie.html'=>'biseibutsu_kaimijinko'
-'kenmijinko.movie.html'=>'biseibutsu_kenmijinko'
-'marumijinko.movie.html'=>'biseibutsu_marumijinko'
-'midorimusi.movie.html'=>'biseibutsu_midorimusi'
-'mijinko.movie.html'=>'biseibutsu_mijinko'
-'no-puriusu.movie.html'=>'biseibutsu_no-puriusu'
-'rappamusi.movie.html'=>'biseibutsu_rappamusi'
-'turiganemusi.movie.html'=>'biseibutsu_turiganemusi'
-'zourimusi.movie.html'=>'biseibutsu_zourimusi'
+'biseibutsu/marumijinko.movie.html' => 'biseibutsu_marumijinko',
+'biseibutsu/aburamimizu.movie.html'=>'biseibutsu_aburamimizu'
+'biseibutsu/ame-ba.movie.html'=>'biseibutsu_ame-ba'
+'biseibutsu/borubokkusu.movie.html'=>'biseibutsu_borubokkusu'
+'biseibutsu/bouhura.movie.html'=>'biseibutsu_bouhura'
+'biseibutsu/enagawamusi.movie.html'=>'biseibutsu_enagawamusi'
+'biseibutsu/hirugatawamusi.movie.html'=>'biseibutsu_hirugatawamusi'
+'biseibutsu/hunagatakeisou.movie.html'=>'biseibutsu_hunagatakeisou'
+'biseibutsu/kagerou.movie.html'=>'biseibutsu_kagerou'
+'biseibutsu/kaimijinko.movie.html'=>'biseibutsu_kaimijinko'
+'biseibutsu/kenmijinko.movie.html'=>'biseibutsu_kenmijinko'
+'biseibutsu/marumijinko.movie.html'=>'biseibutsu_marumijinko'
+'biseibutsu/midorimusi.movie.html'=>'biseibutsu_midorimusi'
+'biseibutsu/mijinko.movie.html'=>'biseibutsu_mijinko'
+'biseibutsu/no-puriusu.movie.html'=>'biseibutsu_no-puriusu'
+'biseibutsu/rappamusi.movie.html'=>'biseibutsu_rappamusi'
+'biseibutsu/turiganemusi.movie.html'=>'biseibutsu_turiganemusi'
+'biseibutsu/zourimusi.movie.html'=>'biseibutsu_zourimusi'
     
     
     ];
