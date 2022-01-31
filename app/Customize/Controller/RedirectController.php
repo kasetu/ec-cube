@@ -27,9 +27,7 @@ class RedirectController extends AbstractController
     
     ];
 
-    /**
-     * @Route("/biseibutsu/{page}", methods={"GET"})
-     */
+@Route("/biseibutsu/{page}", methods={"GET"})
     public function index(string $page)
     {
         if (isset(self::$pageList[$page])) {
