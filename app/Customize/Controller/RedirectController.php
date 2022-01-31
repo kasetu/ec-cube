@@ -11,6 +11,12 @@ use Symfony\Component\Routing\Annotation\Route;
 
 class RedirectController extends AbstractController
 {
+    
+    
+      /**
+     * @Method("GET")
+     * @Route("/biseibutsu/{page}")
+     */
     /**
      * 転送するURLのリスト
      *
@@ -26,10 +32,10 @@ class RedirectController extends AbstractController
 'marumijinko.movie.html' => 'biseibutsu_marumijinko';
     
     ]
- /**
- *@Route("/biseibutsu/{page}", methods={"GET"})
- */
- 
+
+        
+        
+        
     public function index(string $page)
     {
         if (isset(self::$pageList[$page])) {
